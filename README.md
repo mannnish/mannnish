@@ -4,7 +4,7 @@
 
 I am an Undergraduate student pursuing B. Tech degree. Working with Flutter SDK and Python to play a lil bit with API Calls and web Scrapping. I spent most of my time writing random codes to fix bugs for my organisation and playing csgo 😼😼
 
-&nbsp; &nbsp; [Visit Me](http://mannnish.me)
+&nbsp; &nbsp; [Visit Me](https://mxnish-kumar.web.app/)
 &nbsp; &nbsp; [My Timepass Designs](http://be.net/mannnish)
 <br />
 
